@@ -2,7 +2,7 @@
 
 #include "opentelemetry/nostd/shared_ptr.h"
 #include "opentelemetry/nostd/string_view.h"
-#include "opentelemetry/metrics/meter.h"
+//#include "opentelemetry/metrics/meter.h"
 
 OPENTELEMETRY_BEGIN_NAMESPACE
 namespace meter
